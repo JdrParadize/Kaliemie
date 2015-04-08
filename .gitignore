@@ -41,3 +41,15 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.iml
+.idea/Kaliemie.iml
+*.iml
+
+frontend/.idea
+frontend/.idea/encodings.xml
+frontend/.idea/frontend.iml
+frontend/.idea/misc.xml
+frontend/.idea/modules.xml
+frontend/.idea/vcs.xml
+frontend/.idea/scopes
+frontend/.idea/.name
